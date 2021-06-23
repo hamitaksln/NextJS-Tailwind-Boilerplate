@@ -10,7 +10,7 @@ function HomePage() {
                     content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1"
                 />
             </Head>
-            <main>NextJS Tailwind CSS Boilerplate</main>
+            <main className="w-full h-full">NextJS Tailwind CSS Boilerplate</main>
         </div>
     )
 }
